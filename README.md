@@ -6,6 +6,8 @@ slug: /Admin/OnboardingDocs/OnboardingVMbasedARMTemplate
 ---
 # Onboarding Template for VM based Labs 
 
+[demo](https://google.com){:target="_blank"}
+
 ### Overview
 
 In this document you will be provided with end-to-end guidance on creating the CloudLabs Template for VM based labs through the CloudLabs Admin Portal.
