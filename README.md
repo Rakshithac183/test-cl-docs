@@ -16,10 +16,13 @@ slug: /Admin/OnboardingDocs/OnboardingVMbasedARMTemplate
 | 5     | ##### Heading level 5  |
 | 6     | ###### Heading level 6 |
 
+To render an image in web, use the image URL: ![Azure Datacenter](https://azure.microsoft.com/en-us/blog/wp-content/uploads/2022/03/acdf7d3b-44b6-4095-bee0-376c1014eccb.webp)
 
 
+a
+> b
 
-
+c
 
 
 
