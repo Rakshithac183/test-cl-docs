@@ -1,4 +1,4 @@
-#How to use Markdown Language to Author Lab Guides
+# How to use Markdown Language to Author Lab Guides
 
 ## Overview
 
