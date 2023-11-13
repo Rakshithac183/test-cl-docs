@@ -266,5 +266,5 @@ Will be rendered as:
 
 Now that you know the basics of Markdown language to create lab guides, you can now start authoring lab guides for your lab participants.
 
-[<< Authoring Lab Guides](./AuthoringLabGuides.md)
+
 
