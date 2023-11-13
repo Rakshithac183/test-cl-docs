@@ -148,13 +148,13 @@ Will be rendered as below:
 
 **8. Ordered Lists:** To create an ordered list, add line items with numbers followed by period and a space. The numbers don’t have to be in numerical order, but the list should start with the number one. Additionally, you can create nested ordered lists by indenting one or more items by giving a tab space. The table below illustrates various methods for using ordered lists.
 
-![](/img/LabDeveloper/AuthoringLabGuide/ordered-list-table-2.png)
+![](./ordered-list-table-2.png)
 
 > **Note:** CommonMark and a few other lightweight markup languages let you use a close parenthesis **)** as a delimiter (e.g., `1) First item`), but not all Markdown applications support this, so it isn’t a great option from a compatibility perspective. For compatibility, use periods only.
 
 **9. Unordered Lists:** To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items followed by a space. Additionally, you can create nested unordered lists by indenting one or more items by giving a tab space. The table below illustrates different methods for using unordered lists.
 
-![](/img/LabDeveloper/AuthoringLabGuide/unordered-list-table-2.png)
+![](./unordered-list-table-2.png)
 
 > **Note:** Some Markdown applications don’t agree on how to handle different delimiters in the same list. For compatibility, don’t mix and match delimiters in the same list — pick one and stick with it.
     > 
@@ -174,7 +174,7 @@ Will be rendered as below:
 
 For instance, the following content:
 
-![](/img/LabDeveloper/AuthoringLabGuide/fenced-code-bock.png)
+![](./fenced-code-bock.png)
 
 Will be rendered as below:
 ```
@@ -235,7 +235,7 @@ To render an image in local path, such as GitHub, use:
 
 The image will be rendered as below:
 
-![](/img/LabDeveloper/AuthoringLabGuide/datacenter.jpg)
+![](./datacenter.jpg)
 
 > **Note:** 
 >> 1. When using images through local path, create a seperate folder for images outside the Markdown document folder, then provide the path to the file which will be in the format `./images/<ImageFileName>`.
