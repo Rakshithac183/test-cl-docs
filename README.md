@@ -118,9 +118,9 @@ Line 2
 
 **7. Blockquotes:** To create a blockquote, add one **>** (greater than symbol) in the beginning of a paragraph. 
 
-For instance, the sentence `> I love Blockquotes.` will render the output as below:   
+For instance, the sentence `> Important: I love Blockquotes.` will render the output as below:   
 
-> I love Blockquotes.
+> Important: I love Blockquotes.
 
 Blockquotes can also be nested, which is call **Nested Blockquotes**. Add two **>>** (greater than symbol) in the beginning of the paragraph you want to nest.
 
